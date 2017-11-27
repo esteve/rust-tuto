@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["Nicolas Silva <nical@fastmail.com>"]
 
 [dependencies]
+
+# This is a comment, let's add a dependency to the regex crate
+regex = "0.2.2"
